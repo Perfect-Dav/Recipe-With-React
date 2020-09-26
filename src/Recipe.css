@@ -1,0 +1,22 @@
+div.recipe{
+    margin-top: 10px;
+}
+
+h3.card-title{
+    font-weight: bolder;
+}
+
+div.card h6{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+div.card1 ul{
+    font-size: 12px;
+    font-weight: bold;
+}
+
+p.card-text{
+    font-size: 12px;
+    font-weight: bold;
+}
